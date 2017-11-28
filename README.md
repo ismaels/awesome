@@ -1,5 +1,9 @@
 # Awesome list of references
 
+## Shell Script
+
+- [Bash Shell Quick Reference](http://aurelio.net/articles/shell-reference.html): best reference about shell
+
 ## Javascript
 
 - [Metalsmith.io](https://github.com/segmentio/metalsmith): An extremely simple, pluggable static site generator
