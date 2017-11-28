@@ -1,4 +1,4 @@
-# Awesome lsit of references
+# Awesome list of references
 
 ## Javascript
 
